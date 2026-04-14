@@ -1,1 +1,1 @@
-You need tampermonkey extension or an alternative, and then you need to add the script to it.
+Kua manako koe ko tampoe munkii pe maatusa, ma fakaaonqa ko tusa sa raunqa masani
